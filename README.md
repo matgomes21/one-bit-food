@@ -1,1 +1,3 @@
-# one-bit-food
+# OneBitFood
+
+Application insipired on iFood.
